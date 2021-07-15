@@ -1,0 +1,44 @@
+body {background-color: yellowgreen;}
+
+	
+
+
+
+
+
+<style type="text/css">
+		h1{color: purple;}
+
+		span{color: darkgoldenrod;
+			font-size: 40pt;
+			font-family: times;
+		}
+
+
+		h3{color: purple;}
+
+		#intro{
+			color: darkred;}
+
+	.favs{text-decoration: underline;}
+		p{font-size: 13pt;}	
+		a href{color: purple;}
+
+		h1{color: purple;}
+		p{font-size: 13pt;}
+
+		#contactoptions{text-decoration: underline;}
+
+		p{font-size: 13pt;}
+
+		#logo{background: orangered;
+
+		}
+
+		#photo{background: violet;
+
+		width: 750px;border}
+
+		#logo, #photo{border: dashed;}
+
+	</style>

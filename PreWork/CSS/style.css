@@ -1,0 +1,68 @@
+body {background-color: yellowgreen;}
+
+	
+
+
+
+
+
+<style type="text/css">
+
+		#bengal{float: right;}
+
+		
+		.container{width: 300;height: 300;border: 20px solid black;}
+
+
+		#navi{color: purple;}
+
+		#likelist{margin: 0 auto;}
+		h1{color: purple; position: fixed; right: 20px;}
+
+		span{color: darkgoldenrod;
+			font-size: 40pt;
+			font-family: times;
+		}
+
+
+		h3{color: purple;}
+
+		#intro{
+			color: darkred;}
+
+	.favs{text-decoration: underline;}
+		p{font-size: 13pt;}	
+		a href{color: purple;}
+
+		h1{color: purple;}
+		p{font-size: 13pt;}
+
+		#contactoptions{text-decoration: underline;}
+
+		p{font-size: 13pt;}
+
+		#logo{background: orangered;
+
+		}
+
+		#photo{background: violet; margin: 0 auto;	
+
+		width: 750px;border}
+
+
+
+		#logo, #photo, #likelist{border: dashed;}
+
+	#contact{
+		width: 300px;
+		height: 300px;
+		background-color: orangered;
+	}
+
+	#contact{background-color: orangered;}
+
+	.container{width: 250;
+		height: 250;
+		border: 2px solid black;}
+
+	</style>
